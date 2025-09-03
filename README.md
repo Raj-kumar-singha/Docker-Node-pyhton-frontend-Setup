@@ -240,3 +240,11 @@ curl -X POST -d "name=Test" http://localhost:5000/submit
 - `.dockerignore` in both `frontend/` and `backend/`
 
 You’re good to go 🚀
+
+
+# Deploy-throug-AWS
+Docs Link : - [Docs](https://docs.google.com/document/d/1sudX4vhWkNdaneRdLjxsYfl1c5bsZeudrUyx1FlnzE4/edit?tab=t.vtske4ste2ot)
+
+### O/P
+![alt text](image.png)
+![alt text](image-1.png)

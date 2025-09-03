@@ -8,6 +8,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 app.get("/", (req, res) => {
     res.send(`
+    <h1>Raj Kumar Singha</h1>
     <form action="/submit" method="POST">
       <input type="text" name="name" placeholder="Enter your name"/>
       <button type="submit">Submit</button>
